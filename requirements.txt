@@ -13,6 +13,7 @@ pydantic
 pydantic-settings
 
 python-multipart
+pydantic[email]
 
 python-dateutil
 jmespath
