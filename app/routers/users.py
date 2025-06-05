@@ -105,8 +105,8 @@ async def login_user(payload: AuthPayload):
             key="access_token",
             value=tokens["AccessToken"],
             httponly=True,
-            secure=False,  # У продакшені змінити на True
-            samesite="Lax",
+            secure=True,  # У продакшені змінити на True
+            samesite="None",
             max_age=tokens["ExpiresIn"],
         )
 
@@ -114,8 +114,8 @@ async def login_user(payload: AuthPayload):
             key="refresh_token",
             value=tokens["RefreshToken"],
             httponly=True,
-            secure=False,
-            samesite="Lax",
+            secure=True,
+            samesite="None",
             max_age=30 * 24 * 60 * 60,  # 30 днів
         )
 
