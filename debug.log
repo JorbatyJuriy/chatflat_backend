@@ -1,0 +1,104 @@
+2025-05-28 13:34:45,795 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:35:00,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:35:23,155 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:36:41,279 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:37:19,109 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:37:37,620 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:38:01,123 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:38:04,482 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:38:22,160 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:38:37,411 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:42:44,312 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:42:48,374 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:43:10,350 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:45:49,355 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:45:53,883 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:48:30,133 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:48:32,306 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:48:45,973 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:53:45,823 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 13:54:25,130 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 13:55:53,677 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 13:58:30,222 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 14:05:55,795 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 14:06:00,319 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 14:06:22,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 14:07:02,567 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 14:15:27,770 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 14:16:36,851 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 15:55:47,909 - app.main - INFO - ChatFlat завершення роботи
+2025-05-28 16:02:46,665 - app.main - INFO - ChatFlat запуск API!
+2025-05-28 16:06:17,205 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 16:06:47,991 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 17:03:22,868 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 17:18:40,482 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 17:19:21,590 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 18:48:03,488 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 19:40:08,479 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 19:40:11,572 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 22:16:46,358 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 22:16:49,563 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 22:21:27,692 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 22:21:30,358 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 22:53:51,149 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 22:53:53,718 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 23:13:17,557 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 23:13:43,172 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 23:23:51,060 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 23:23:53,749 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 23:25:19,384 - app.main - INFO - ChatFlat завершення роботи
+2025-06-04 23:25:21,711 - app.main - INFO - ChatFlat запуск API!
+2025-06-04 23:29:06,424 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-04 23:29:37,782 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 00:03:07,084 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 00:03:09,958 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 00:06:28,427 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 00:06:31,007 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 00:13:14,359 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 12:02:23,881 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 12:06:29,432 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:08:10,316 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:09:04,878 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:27:18,167 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 12:27:21,422 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 12:27:29,377 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 12:33:12,402 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 12:39:15,956 - app.utils.chatbot - ERROR - [GPT ERROR] Object of type Decimal is not JSON serializable
+2025-06-05 12:40:13,037 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 12:41:17,533 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 12:41:34,466 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:42:03,437 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:42:16,177 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:42:34,255 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:47:45,612 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:48:12,827 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:49:09,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:49:38,635 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:50:54,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:51:46,792 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:52:10,239 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:52:24,868 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:52:39,744 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:52:58,133 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:53:15,010 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:53:34,441 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:53:47,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 12:54:14,166 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:01:09,261 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 13:01:58,147 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 13:02:11,244 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:02:50,789 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:16:54,320 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 13:18:15,484 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 13:19:06,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:19:27,872 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:19:49,130 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:20:23,558 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 13:23:37,899 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 13:24:01,932 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:24:32,949 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:24:48,410 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:25:01,415 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-05 13:32:59,632 - app.main - INFO - ChatFlat завершення роботи
+2025-06-05 13:33:06,927 - app.main - INFO - ChatFlat запуск API!
+2025-06-05 13:40:39,426 - app.main - INFO - ChatFlat завершення роботи
