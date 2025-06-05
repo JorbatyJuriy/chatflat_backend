@@ -31,8 +31,10 @@ app = FastAPI(title="ChatFlat API", lifespan=lifespan)
 # Налаштування CORS
 app.add_middleware(
     CORSMiddleware,
-   # allow_origins=["http://localhost:5173","https://chatflat-frontend-ckwlqxbwc-jorbatys-projects.vercel.app","chatflat-frontend-jorbatys-projects.vercel.app"],
-    allow_origins=["*"],
+    allow_origins=["http://localhost:5173",
+                   "https://chatflat-frontend-ckwlqxbwc-jorbatys-projects.vercel.app",
+                   "chatflat-frontend-jorbatys-projects.vercel.app",
+                   "https://chatflat-frontend-jorbatys-projects.vercel.app", ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
